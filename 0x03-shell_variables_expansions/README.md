@@ -4,6 +4,6 @@ Create a script that prints hello user, where user is the current Linux user.
 
 Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 
-Write a script that converts a number from base 2 to base 10.
+Create a script that prints all possible combinations of two letters, except oo.
 
 
