@@ -4,6 +4,6 @@ Create a script that prints hello user, where user is the current Linux user.
 
 Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 
-Create a script that prints all possible combinations of two letters, except oo.
+Write a script that prints a number with two decimal places, followed by a new line.
 
 
